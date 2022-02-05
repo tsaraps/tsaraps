@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Nikolay Tsarapkin 🐱‍👤
+#### Web backend developer with passion in Rust.
 
-<!--
-**tsaraps/tsaraps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my web-site and chat-bot.
+- 🌱 I’m currently learning Rust, multithreading and machine learning.
+- 👯 I’m looking to collaborate on intresting projects which can people in their duties.
+- 💬 Ask me about coding, psychology or anything else.
+- 📫 How to reach me: email me on me@tsaraps.com or find other contacts on tsaraps.com.
 
-Here are some ideas to get you started:
+### My GitHub statistics:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsaraps&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Most used languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsaraps&layout=compact&theme=darcula)](https://github.com/tsaraps/github-readme-stats)
