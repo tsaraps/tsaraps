@@ -1,5 +1,5 @@
 ### Hi there! I'm Nikolay Tsarapkin 🐱‍👤
-#### Web backend developer with passion in Rust.
+#### Web backend developer with passion in Rust and Python.
 
 - 🔭 I’m currently working on my web-site and chat-bot.
 - 🌱 I’m currently learning Rust, multithreading and machine learning.
