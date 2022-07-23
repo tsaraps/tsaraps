@@ -2,7 +2,7 @@
 #### Web backend developer with passion in Rust and Python.
 
 - 🔭 I’m currently working on my web-site and chat-bot.
-- 🌱 I’m currently learning Rust, multithreading and machine learning.
+- 🌱 I’m currently learning multithreading and machine learning.
 - 👯 I’m looking to collaborate on intresting projects which can people in their duties.
 - 💬 Ask me about coding, psychology or anything else.
 - 📫 How to reach me: email me on me@tsaraps.com or find other contacts on tsaraps.com.
