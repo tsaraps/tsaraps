@@ -1,9 +1,10 @@
 ### Hi there! I'm Nikolay Tsarapkin 🐱‍👤
-#### Web backend developer with passion in Rust and Python.
+#### Web backend developer with passion in focussing on business and client.
 
+- 💻 I write on Python and learning Go.
 - 🔭 I’m currently working on my web-site and chat-bot.
-- 🌱 I’m currently learning multithreading and machine learning.
-- 👯 I’m looking to collaborate on intresting projects which can people in their duties.
+- 🌱 I’m currently learning multithreading and asyncio.
+- 👯 I’m looking to collaborate on intresting projects which can help people in their duties.
 - 💬 Ask me about coding, psychology or anything else.
 - 📫 How to reach me: email me on me@tsaraps.com or find other contacts on www.tsaraps.com.
 
