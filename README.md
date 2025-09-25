@@ -8,5 +8,5 @@
 - 💬 Ask me about coding, psychology or anything else.
 - 📫 How to reach me: email me on me@tsaraps.com or find other contacts on www.tsaraps.com.
 
-### Most used languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsaraps&layout=compact&theme=darcula)](https://github.com/tsaraps/github-readme-stats)
